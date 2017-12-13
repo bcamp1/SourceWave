@@ -1,0 +1,6 @@
+*.depend
+*.layout
+cachegrind.*
+bin/
+include/
+src/
